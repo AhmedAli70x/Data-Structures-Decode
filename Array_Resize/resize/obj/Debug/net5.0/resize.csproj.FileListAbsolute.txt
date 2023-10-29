@@ -1,0 +1,16 @@
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\bin\Debug\net5.0\resize.exe
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\bin\Debug\net5.0\resize.deps.json
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\bin\Debug\net5.0\resize.runtimeconfig.json
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\bin\Debug\net5.0\resize.runtimeconfig.dev.json
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\bin\Debug\net5.0\resize.dll
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\bin\Debug\net5.0\ref\resize.dll
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\bin\Debug\net5.0\resize.pdb
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\obj\Debug\net5.0\resize.csproj.AssemblyReference.cache
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\obj\Debug\net5.0\resize.GeneratedMSBuildEditorConfig.editorconfig
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\obj\Debug\net5.0\resize.AssemblyInfoInputs.cache
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\obj\Debug\net5.0\resize.AssemblyInfo.cs
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\obj\Debug\net5.0\resize.csproj.CoreCompileInputs.cache
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\obj\Debug\net5.0\resize.dll
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\obj\Debug\net5.0\ref\resize.dll
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\obj\Debug\net5.0\resize.pdb
+X:\CloudNativeBaseCamp\Data_Structures\Array_Resize\resize\obj\Debug\net5.0\resize.genruntimeconfig.cache
